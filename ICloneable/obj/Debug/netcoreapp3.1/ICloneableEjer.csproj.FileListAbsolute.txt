@@ -1,0 +1,13 @@
+D:\Escritorio\C#\C# Intermedio\ICloneable\bin\Debug\netcoreapp3.1\ICloneableEjer.exe
+D:\Escritorio\C#\C# Intermedio\ICloneable\bin\Debug\netcoreapp3.1\ICloneableEjer.deps.json
+D:\Escritorio\C#\C# Intermedio\ICloneable\bin\Debug\netcoreapp3.1\ICloneableEjer.runtimeconfig.json
+D:\Escritorio\C#\C# Intermedio\ICloneable\bin\Debug\netcoreapp3.1\ICloneableEjer.runtimeconfig.dev.json
+D:\Escritorio\C#\C# Intermedio\ICloneable\bin\Debug\netcoreapp3.1\ICloneableEjer.dll
+D:\Escritorio\C#\C# Intermedio\ICloneable\bin\Debug\netcoreapp3.1\ICloneableEjer.pdb
+D:\Escritorio\C#\C# Intermedio\ICloneable\obj\Debug\netcoreapp3.1\ICloneableEjer.csprojAssemblyReference.cache
+D:\Escritorio\C#\C# Intermedio\ICloneable\obj\Debug\netcoreapp3.1\ICloneableEjer.AssemblyInfoInputs.cache
+D:\Escritorio\C#\C# Intermedio\ICloneable\obj\Debug\netcoreapp3.1\ICloneableEjer.AssemblyInfo.cs
+D:\Escritorio\C#\C# Intermedio\ICloneable\obj\Debug\netcoreapp3.1\ICloneableEjer.csproj.CoreCompileInputs.cache
+D:\Escritorio\C#\C# Intermedio\ICloneable\obj\Debug\netcoreapp3.1\ICloneableEjer.dll
+D:\Escritorio\C#\C# Intermedio\ICloneable\obj\Debug\netcoreapp3.1\ICloneableEjer.pdb
+D:\Escritorio\C#\C# Intermedio\ICloneable\obj\Debug\netcoreapp3.1\ICloneableEjer.genruntimeconfig.cache

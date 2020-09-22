@@ -1,0 +1,12 @@
+D:\Escritorio\C#\C# Intermedio\ICloneable\bin\Debug\netcoreapp3.1\ICloneable.exe
+D:\Escritorio\C#\C# Intermedio\ICloneable\bin\Debug\netcoreapp3.1\ICloneable.deps.json
+D:\Escritorio\C#\C# Intermedio\ICloneable\bin\Debug\netcoreapp3.1\ICloneable.runtimeconfig.json
+D:\Escritorio\C#\C# Intermedio\ICloneable\bin\Debug\netcoreapp3.1\ICloneable.runtimeconfig.dev.json
+D:\Escritorio\C#\C# Intermedio\ICloneable\bin\Debug\netcoreapp3.1\ICloneable.dll
+D:\Escritorio\C#\C# Intermedio\ICloneable\bin\Debug\netcoreapp3.1\ICloneable.pdb
+D:\Escritorio\C#\C# Intermedio\ICloneable\obj\Debug\netcoreapp3.1\ICloneable.AssemblyInfoInputs.cache
+D:\Escritorio\C#\C# Intermedio\ICloneable\obj\Debug\netcoreapp3.1\ICloneable.AssemblyInfo.cs
+D:\Escritorio\C#\C# Intermedio\ICloneable\obj\Debug\netcoreapp3.1\ICloneable.csproj.CoreCompileInputs.cache
+D:\Escritorio\C#\C# Intermedio\ICloneable\obj\Debug\netcoreapp3.1\ICloneable.dll
+D:\Escritorio\C#\C# Intermedio\ICloneable\obj\Debug\netcoreapp3.1\ICloneable.pdb
+D:\Escritorio\C#\C# Intermedio\ICloneable\obj\Debug\netcoreapp3.1\ICloneable.genruntimeconfig.cache
